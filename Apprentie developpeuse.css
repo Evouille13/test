@@ -1,0 +1,42 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#id-titre {
+font-size: 70px;
+    position: absolute;
+top: 50%;
+left:15%;
+transform:translateY(-50%);
+margin-left: 30px;
+}
+#id-p1{
+    font-size: 20px;
+    position:absolute;
+    left: 50%;
+    top:5%;
+}
+#id-p2{
+    font-size: 20px;
+    position:absolute;
+    left: 50%;
+    top: 30%;
+}
+#id-p3{
+    font-size: 20px;
+    position:absolute;
+    left: 50%;
+    top: 60%;
+}
+#liste{
+    font-size: 20px;
+    position:absolute;
+    left: 50%;
+    top: 40%;
+}
+#id-p4{
+    font-size: 25px;
+    position: absolute;
+    top: 80%;
+    left:30%;
+}
